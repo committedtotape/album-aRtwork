@@ -19,6 +19,9 @@ Only 1 album cover currently recreated, but I plan to do more. Suggestions welco
     +  Code: `Silver Jews - American Water.R`
     +  Original Cover: `american_water_original.jpg`
     +  R Cover: `american_water_R.png`
+    +  Blog Post: [https://davidsmale.netlify.com/portfolio/album-artwork-with-ggplot2/](https://davidsmale.netlify.com/portfolio/album-artwork-with-ggplot2/)
+    
+
 
 
 
