@@ -43,4 +43,4 @@ ggplot(horizon, aes(x, y)) +
         plot.margin = margin(0, 0, 0, 0))
 
 # save plot
-ggsave("american_water_R.png", width = 10, height = 10)
+ggsave("american_water_R.png", width = 2, height = 2)
